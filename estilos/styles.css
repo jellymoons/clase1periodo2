@@ -1,0 +1,16 @@
+body {
+    background-color:skyblue;
+}
+
+h1 {
+    color: blueviolet;
+    font-family:verdana ;
+}
+p{
+    background-color:blue;
+    text-align: center;
+}
+#textoRojo{
+    font-family: Verdana;
+    color:red;
+}
